@@ -1,0 +1,6 @@
+channels:
+  - id: job-scout
+    name: Job Scout
+    description: Find, evaluate and deduplicate high-fit Senior Ruby/Rails opportunities.
+    permitted_agents: [job-scout]
+    allowed_groups: [all]
